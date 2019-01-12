@@ -1,2 +1,2 @@
-# Web
-Creating webpages and learning
+# Web Development Private Projects
+Creating webpages and learning new stuff
