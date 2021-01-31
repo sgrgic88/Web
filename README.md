@@ -1,2 +1,3 @@
 # Web Development Public Projects
-Creating webpages and learning new stuff
+
+Learning new Web Development technologies/frameworks in 2021 (Javascript ES6, Bootstrap 4, MongoDB, PHP, ...)
